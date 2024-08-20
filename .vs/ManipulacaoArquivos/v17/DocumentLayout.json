@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\bibliotecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:bibliotecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\bibliotecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:bibliotecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|c:\\users\\aluno\\source\\repos\\manipulacaoarquivos\\backup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5562487-041C-4C8D-AE3C-FA04687BF9EC}|ManipulacaoArquivos.csproj|solutionrelative:backup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Backup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.Designer.cs",
+              "RelativeDocumentMoniker": "Backup.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.Designer.cs",
+              "RelativeToolTip": "Backup.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:45:29.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:43:54.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bibliotecas.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Bibliotecas.cs",
+              "RelativeDocumentMoniker": "Bibliotecas.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Bibliotecas.cs",
+              "RelativeToolTip": "Bibliotecas.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwGEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:26:42.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bibliotecas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Bibliotecas.cs",
+              "RelativeDocumentMoniker": "Bibliotecas.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Bibliotecas.cs [Design]",
+              "RelativeToolTip": "Bibliotecas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:23:58.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.cs",
+              "RelativeDocumentMoniker": "Backup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.cs",
+              "RelativeToolTip": "Backup.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwE4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:11:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.cs",
+              "RelativeDocumentMoniker": "Backup.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\ManipulacaoArquivos\\Backup.cs [Design]",
+              "RelativeToolTip": "Backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:06:58.375Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

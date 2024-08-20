@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoArquivos", "ManipulacaoArquivos.csproj", "{A5562487-041C-4C8D-AE3C-FA04687BF9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5562487-041C-4C8D-AE3C-FA04687BF9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5562487-041C-4C8D-AE3C-FA04687BF9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5562487-041C-4C8D-AE3C-FA04687BF9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5562487-041C-4C8D-AE3C-FA04687BF9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CAB7582-D5C2-47F0-B2EA-19DB759C3572}
+	EndGlobalSection
+EndGlobal
